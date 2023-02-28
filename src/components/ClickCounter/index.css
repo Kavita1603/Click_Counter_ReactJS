@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  background-color: #f1f5f8;
+  text-align: center;
+  height: 100vh;
+  padding-top: 100px;
+  font-family: 'Roboto';
+}
+
+.heading {
+  font-size: 40px;
+  color: #2d3a35;
+}
+.desc {
+  font-size: 20px;
+  color: #2d3a35;
+  padding-top: 20px;
+}
+.button {
+  background-color: #007bff;
+  height: 5vh;
+  width: 6vw;
+  color: #ffffff;
+  border: 0px #007bff;
+  border-radius: 5px;
+}
+
+.count {
+  color: #c20a72;
+}
